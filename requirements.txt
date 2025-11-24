@@ -1,0 +1,8 @@
+kafka-python
+pyspark
+streamlit
+psycopg2-binary
+pandas
+python-dotenv
+requests
+faker
